@@ -1,0 +1,90 @@
+.container {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.content-section { 
+	padding: 0; 
+	/*margin: 2em 0;*/
+	position: relative;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: 0px;
+ }
+
+.padding {
+		padding: 1em;
+	@media (min-width: $screen-xs-min) {
+		padding: 2em;
+	}
+	@media (min-width: $screen-md-min) {
+		padding: 4em;
+	}
+}
+
+.margin {
+	margin: 2.47em;
+	
+	@media (min-width: $screen-sm-min) {
+		margin: 4.5em;
+	}
+}
+
+.center {
+	text-align: center;
+}
+
+.work-gallery {
+	img {
+		width: 100%;		
+	}
+	div {
+	}
+} 
+
+.work-item { 
+   .content {	   
+	   padding: 0 10% 0 10%;
+		   
+	   display: none;
+	   
+	   h1, h2, h3, h4 {
+		   position: absolute;
+		   color: $white;
+	   }
+	   
+	   h4 {
+		   top: 23%;
+		   font-weight: 100;
+	   }
+	   
+	   h2 {
+		   top: 32%;
+		   font-size: 38px;
+		   
+	   }   
+    }
+}
+
+
+/* Darken work item */
+a.darken {
+        display: block;
+		background: black;
+		padding: 0;
+}
+
+a.darken img {
+    display: block;
+    
+    -webkit-transition: all 0.5s linear;
+       -moz-transition: all 0.5s linear;
+        -ms-transition: all 0.5s linear;
+         -o-transition: all 0.5s linear;
+            transition: all 0.5s linear;
+}
+
+a.darken:hover img {
+    opacity: 0.4;   
+}

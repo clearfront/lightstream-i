@@ -1,0 +1,88 @@
+/* Navigation */
+
+.navbar {
+    margin-bottom: 0;
+    text-transform: uppercase;
+	padding-left: 10px; 
+	padding-right: 10px; 
+		
+		@media (min-width: $screen-sm-min) {
+			padding: 20px 0;
+			border-bottom: none;
+			letter-spacing: 1px;
+			background: transparent;
+			-webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+			-moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+			transition: background .5s ease-in-out,padding .5s ease-in-out;
+		}
+}
+
+.navbar-brand {
+	font-weight: 700;
+	padding: 12px 10px;
+		img {
+			width: 200px;
+		}
+	@media (max-width: $screen-sm) {
+		img {
+			width: 180px;
+		}
+	}
+}
+
+.navbar-fixed-top {
+	top: 0;
+	border-width: 0 0 1px;
+	background-color: rgba(255,255,255,0.9);
+}
+
+.navbar-brand:focus {
+    outline: none;
+}
+
+.navbar-custom a {
+    color: $grey-darker;
+}
+
+.navbar-custom .nav li a {
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
+
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus,
+.navbar-custom .nav li.active {
+    outline: none;
+    color: $grey;
+	background-color: transparent;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+
+.navbar-toggle {
+    padding: 4px 6px;
+    font-size: 14px;
+}
+
+.navbar-toggle:focus,
+.navbar-toggle:active {
+    outline: none;
+}
+
+.top-nav-collapse {
+	.navbar-brand {
+		img {
+			width: 150px;
+		-webkit-transition: all .2s ease-in-out;
+		-moz-transition: all .2s ease-in-out;
+		transition: all .2s ease-in-out;
+		}
+	}
+	@media (min-width: $screen-sm-min) {
+		padding: 0;
+        background-color: rgba(255,255,255,0.8);
+	}
+}
+

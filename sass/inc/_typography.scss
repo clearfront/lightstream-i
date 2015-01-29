@@ -1,0 +1,138 @@
+body {
+	font-size: 1em;
+}
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+    letter-spacing: 0px;
+	margin-top: 0px;
+  	margin-bottom: 20px;
+}
+h1 {
+	font-size: 3.5em; 
+	font-weight: 200; 
+	@media (min-width: $screen-md-min) {
+		font-size: 5.2em; 
+	}
+}
+h2 {
+	font-size: 3.5em; 
+	font-weight: 200; 
+}
+h3 {
+	font-size: 2.5em; 
+	font-weight: 200; 
+}	
+h4 {
+	font-size: 2em; 
+	font-weight: 200; 
+}
+.h1 {
+	font-size: 3.5em; 
+	font-weight: 200; 
+	@media (min-width: $screen-md-min) {
+		font-size: 5.2em; 
+	}
+	
+}
+.h2 {
+	font-size: 3.5em; 
+	font-weight: 200; 
+}
+.h3 {
+	font-size: 2.5em; 
+	font-weight: 200; 
+}	
+.h4 {
+	font-size: 2em; 
+	font-weight: 200; 
+	
+}
+
+
+
+
+
+
+
+
+
+p {
+    font-size: 1.6em;
+	font-weight: 300;
+	opacity: 0.8;
+}
+
+
+
+
+
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+	li {
+		margin: 0;
+		font-size: 2.2em;
+	}
+}
+
+
+ul {
+	&.nav {
+		li {
+			font-size: 1.4em;
+		}
+	}
+}
+
+
+a {
+    color: $black; 
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: darken($primary, 20%);
+}
+
+
+
+
+.light {
+    font-weight: 200;
+}
+
+.quote {
+	font-weight: 400; 
+	font-size: 2.4em;	
+}
+
+.caption {
+	font-weight: 400; 
+	font-size: 1.8em;
+	
+}
+
+.fa-circle-o {
+	font-size: 0.6em;
+	vertical-align: middle;
+}

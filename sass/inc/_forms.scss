@@ -1,0 +1,48 @@
+.contact-form {
+	position: relative;
+	clear: both;
+	height: auto;
+	margin: 0;
+	background-color: $grey-darker;
+	color: $white;
+	a {
+		color: $white;
+	}
+	p {
+		font-size: 2em;
+	}
+	
+}
+
+input[type=text], textarea {
+	 width: 100%; 
+	 padding: 1em;
+	 border-radius: 4px;
+	 font-size: 1.4em;
+	 margin: 0 0 10px 0;
+	 border: none;
+	 color: $grey-darker;
+}
+
+input[type=submit] {
+	 width: 50%; 
+	 padding: 1em;
+	 border-radius: 4px;
+	 font-size: 1.4em;
+	 margin: 0 0 10px 0;
+	 border: none;
+	 color: $grey-darker;
+	 background-color: $white;
+}
+
+i.close-contact {
+	width: 100px;
+	position: absolute; 
+	right: 20px;
+	top: 20px;
+	font-size: 3em;
+	cursor: pointer;
+}
+
+i.close-contact:hover {
+}

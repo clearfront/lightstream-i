@@ -1,0 +1,61 @@
+/* Buttons */
+
+.btn {
+    text-transform: uppercase;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+	font-size: 2em;
+	border-radius: 0;
+	padding: 0.4em 1em;
+}
+
+.btn-default {
+    border: 1px solid $primary;
+    color: $primary;
+    background-color: transparent;
+}
+
+.btn-default:hover,
+.btn-default:focus {
+    border: 1px solid $primary;
+    outline: none;
+    color: $white;
+    background-color: $primary;
+}
+
+.btn-huge {
+    padding: 25px;
+    font-size: 26px;
+	
+}
+
+
+@media (min-width: $screen-sm-min) {
+.btn-huge {
+		text-align: center;
+	
+}
+	
+}
+
+
+@media (min-width: $screen-lg-min) {
+    ul.banner-social-buttons {
+        margin-top: 15px; 
+    }
+}
+
+@media (min-width: $screen-sm-min) {
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
