@@ -4,7 +4,7 @@
     display: table;
     width: 100%;
     height: auto;
-    padding: 130px 0;
+    padding: 0;
     text-align: center;
     color: $light;
     background-image: -webkit-linear-gradient(90deg, #d8d8d8 0%, #dfdfdf 17%, #ffffff 99%);
@@ -12,7 +12,7 @@
 }
 
 .intro-body {
-    display: table-cell;
+    /*display: table-cell;*/
     vertical-align: middle;
 }
 
