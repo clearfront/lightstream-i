@@ -1,3 +1,3 @@
 <?php 
-$serverRoot = "http://localhost/lightstream-i/";
+$serverRoot = "http://localhost:8888/lightstream-i/";
 ?>

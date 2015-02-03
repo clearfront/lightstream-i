@@ -4,4 +4,4 @@
 <?php include ("inc/intro.php");?>
 <?php include ("inc/intro-featured.php");?>
 <?php include ("inc/brands.php");?>
-<?php include ("inc/footer.php");?>
+<?php include ("inc/footer.php");?> 
