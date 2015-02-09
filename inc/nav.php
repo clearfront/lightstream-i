@@ -1,5 +1,5 @@
 <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-  <div class="container">
+  <div class="">
     <div class="navbar-header page-scroll">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <i class="fa fa-bars"></i> </button>
       <a href="<?php echo $serverRoot; ?>" class="navbar-brand" ><img src="<?php echo $serverRoot; ?>img/svg/logo.svg" class="logo" /></a> </div>

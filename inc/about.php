@@ -1,8 +1,8 @@
 <section class="content-section">
-  <div class="container">
+  <div class="">
     <div class="row">
       <section class="services-item">
-        <div class="col-lg-6 col-md-6 col-sm-12 section-dark-grey padding fadeInUp animated one">
+        <div class="col-lg-6 col-md-6 col-sm-12 section-white padding fadeInUp animated one">
           <h1>Responsive and Mobile Web Design</h1>
           <p>Lightstream is a Creative Design and Digital Agency in City Centre Manchester, UK.</p>
           <p>Working with companies across the globe we supply a variety of industries with creative design and interactive services.</p>

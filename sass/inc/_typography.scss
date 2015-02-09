@@ -73,7 +73,14 @@ p {
     font-size: 1.6em;
 	font-weight: 300;
 	opacity: 0.8;
+	
+	
+	@media (min-width: $screen-lg-min) {
+		font-size: 2em;
+	}
 }
+
+
 
 
 

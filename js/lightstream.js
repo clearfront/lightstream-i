@@ -29,7 +29,7 @@ $(this).stop(true).animate({opacity: 1});
 */
 
 $('.lightGallery').mouseout(function() {
-	$('.boxContainer').stop(true).animate({opacity: 1},500);
+	//$('.boxContainer').stop(true).animate({opacity: 1},500);
 }); 
  
 
@@ -57,12 +57,12 @@ $(window).scroll(function() {
 
 $('.work-item a').mouseover(function() {
 	//$(".content").hide();
-    $(this).find(".content").show();
+    //$(this).find(".content").show();
  //}).mouseout(function() {
     //$(this).find(".content").hide();
 });
 $('.work-item a img').mouseout(function() {
-	$(".content").hide();
+	//$(".content").hide();
 });
 
 

@@ -1,6 +1,6 @@
 <div id="services">
 <section class="content-section">
-<div class="container lightGallery services-gallery">
+<div class=" lightGallery services-gallery">
   <div class="row">
     
     

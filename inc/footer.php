@@ -1,7 +1,11 @@
 <footer>
 <section class="content-section">
-    <div class="container">
-        <div class="col-lg-12">
+    <div class="">
+        <div class="col-md-12">
+        <div class="col-md-6 text-left"></div>
+        <div class="col-md-6 text-right padding">Lightstream Interactive Ltd is Registered in England and Wales. Company Number 6708080.<br/>
+        © Copyright Lightstream Interactive Ltd 2014
+        </div>
           </div>
         </div>
       </div>

@@ -1,5 +1,5 @@
 <section class="content-section">
-  <div class="container">
+  <div class="">
     <div class="row">
       <div class="col-lg-12 padding">
         <h2 class="h1">What our clients say</h2>
