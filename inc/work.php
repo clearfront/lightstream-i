@@ -8,7 +8,7 @@
         </a> </div>
         
         
-           <div class="work-item boxContainer center fadeInUp animated two col-sm-6 col-xs-12"><a href="case/bert" class="darken">
+           <div class="work-item boxContainer center fadeInUp animated two col-sm-6 col-xs-12"><a href="case/bert-barbers" class="darken">
         <picture><img src="img/work/bert.jpg"></picture>
         </a> </div>
         
@@ -36,7 +36,7 @@
         
         
         
-         <div class="work-item boxContainer center fadeInUp animated six col-sm-6 col-xs-12"><a href="case/aquarius" class="darken">
+         <div class="work-item boxContainer center fadeInUp animated six col-sm-6 col-xs-12"><a href="case/aquarius-weddings" class="darken">
         <picture><img src="img/work/aquarius.jpg"></picture>
         
         </a></div>

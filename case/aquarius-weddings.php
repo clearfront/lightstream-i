@@ -12,13 +12,13 @@ $background = "#efefef";
   <div class="container">
     <div class="row">
       <div class="col-lg-12 center">
-        <div class="heroMainImage" style="background-color: #000; background-repeat:repeat-x;"> <img src="../img/studies/aquarius/aquarius-weddings.png" class="img-responsive"  alt=""/> </div>
+        <div class="heroMainImage" style="background-color: #000; background-repeat:repeat-x;"> <img src="../img/studies/aquarius/aquarius.jpg" class="img-responsive"  alt=""/> </div>
       </div>
     </div>
   </div>
 </section>
 <section class="content-section">
-  <div class="container">
+  <div class="container padding">
     <div class="row">
       <div class="col-lg-12">
         <h2>Aquarius Weddings </h2>
@@ -28,7 +28,7 @@ $background = "#efefef";
   </div>
 </section>
 <section class="content-section">
-  <div class="container">
+  <div class="container padding">
     <div class="row">
       <div class=" col-lg-12">
         <h2>The Concept</h2>
@@ -39,20 +39,20 @@ $background = "#efefef";
   </div>
 </section>
 <section class="content-section">
-  <div class="container">
+  <div class="container padding">
     <div class="row">
       <div class=" col-lg-12" > <img src="../img/studies/aquarius/concept.png" class="img-responsive"  alt=""/></div>
     </div>
   </div>
 </section>
 <section class="content-section">
-  <div class="container">
+  <div class="container padding">
     <div class="row">
-      <div class=" col-lg-4">
+      <div class=" col-lg-4 padding">
         <h3>Marketing</h3>
         <p class="largeText">Over the course of a few months we increased the traffic for the site by over 150%. This traffic  has come from a wide ranging number of key phrases but the most effective is from local customers looking for wedding clothes in the area. This was our main focus for the marketing efforts as buying wedding clothes is a personal experience that requires the customer to visit the store. </p>
       </div>
-      <div class=" col-lg-4">
+      <div class=" col-lg-4 padding">
         <h3>SEO Results</h3>
         <p class="largeText whiteBackground">Just a few search phrases found on the first page of Google.</p>
         <div class="largeText whiteBackground">
@@ -66,7 +66,7 @@ $background = "#efefef";
           </ul>
         </div>
       </div>
-      <div class=" col-lg-4">
+      <div class=" col-lg-4 padding">
         <div class="span12 whiteBackground">
           <div class="span8">
             <p class="largeText">Increase in visits after a few months</p>
@@ -91,18 +91,18 @@ $background = "#efefef";
 <section class="content-section section-dark-grey padding">
   <div class="container">
 
-      <div class=" col-lg-4">
-        <div class="center"><img src="../img/studies/png/html5.png" class="img-responsive"  alt=""/></div>
+      <div class=" col-lg-4 padding">
+       
         <h3>HTML5</h3>
         <p class="largeText">The site makes use of the latest internet technologies and techniques. This allows for greater flexibility and richer array of features at our developers disposal.</p>
       </div>
-      <div class=" col-lg-4">
-        <div class="center"><img src="../img/studies/png/drupal.png" class="img-responsive"  alt=""/></div>
+      <div class=" col-lg-4 padding">
+      
         <h3>Drupal</h3>
         <p class="largeText">We considered a number of potential approaches for the CMS system that runs the sites content. From bespoke to Wordpress. We decided on the drupal CMS system as we could mould it exactly to fit our needs and allowed us to create a fully featured site we could extend with greater flexibility at a later date.</p>
       </div>
-      <div class="col-lg-4 odd whiteBackground">
-        <div class="center"><img src="../img/studies/png/w3c.png" class="img-responsive" alt=""/></div>
+      <div class="col-lg-4 padding odd whiteBackground">
+       
         <h2>W3C </h2>
         <p class="largeText">Our sites are coded to be W3C compliant ensuring quality coding practices. The Markup Validation Service is a validator by the World Wide Web Consortium (W3C) that allows Internet users to check HTML and XHTML documents for well-formed markup. </p>
       </div>
@@ -110,18 +110,36 @@ $background = "#efefef";
   </div>
 </section>
 <section class="content-section">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6"> <img src="../img/work/portfolio/stretch-aquarius.png" class="img-responsive"  alt=""/> </div>
-      <div class="col-lg-6"> <img src="../img/work/portfolio/aquarius-mobile.jpg" class="img-responsive" alt="" /> </div>
+  <div id="carousel-example-generic" class="carousel slide padding" data-ride="carousel">
+  <!-- Indicators -->
+  <!--
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+  -->
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="../img/studies/aquarius/macbook.jpg" class="img-responsive"  alt=""/>
     </div>
-    <div class="row-fluid padded">
-      <div class="col-lg-12"> </div>
-    </div>
-    <div class="row-fluid padded">
-      <div class="col-lg-12"> </div>
-    </div>
+    
+
   </div>
-  </div>
+
+  <!-- Controls -->
+  <!--
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  -->
+</div>
 </section>
 <?php include '../inc/footer.php'; ?>
