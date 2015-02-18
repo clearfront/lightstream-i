@@ -9,7 +9,7 @@ $background = "#efefef";
 <?php include '../inc/nav.php'; ?>
 <?php include '../inc/nav-padding.php';?>
 <section class="content-section" >
-  <div class="container">
+  <div class="">
     <div class="row">
       <div class="col-lg-12 center">
         <div class="heroMainImage" > <img src="../img/studies/uktefl/uktefl.png" class="img-responsive"  alt=""/> </div>
@@ -17,32 +17,39 @@ $background = "#efefef";
     </div>
   </div>
 </section>
+
+
 <section class="content-section">
   <div class="container padding">
     <div class="row">
       <div class="col-lg-12">
         <h2>UK-TEFL</h2>
-      <p class="largeText">Facebook landing page for UK-TEFL</p>
+      <p class="largeText">Uk-tefl wanted a Facebook page to promote their services through Facebook and keep their followers up to date with news and events. The new page had to be instantly recognisable to their existing users and make the switch from their Facebook page to the actual site seemless. </p>
       </div>
     </div>
   </div>
 </section>
+
+<!--
 <section class="content-section section-dark-grey padding">
   <div class="container">
       <div class=" col-lg-4 padding">
-      <h3>Responsive</h3>
-      <p class="largeText">Fylde Telecom knew that being a mobile phone repair company many customers would be accessing their website from mobile devices rather than a laptop or PC. We therefore created a tailored responsive website which would look good and work efficiently on all devices.</p>
+      <h3>Facebook Api's</h3>
+      <p class="largeText">Uk-tefl wanted a Facebook page to promote their services through Facebook and keep their followers up to date with news and events. The new page had to be instantly recognisable to their existing users and make the switch from their Facebook page to the actual site seemless. </p>
       </div>
       <div class=" col-lg-4 padding">
-      <h3>HTML5</h3>
+      <h3>HTML5 & CSS3</h3>
       <p class="largeText">The site makes use of the latest internet technologies and techniques. This allows for greater flexibility and richer array of features at our developers disposal.</p>
       </div>
       <div class="col-lg-4 padding odd whiteBackground">
-      <h3>PHP & MySQL</h3>
+      <h3>Social Media</h3>
       <p class="largeText">As the requirement for the application was quite unique and bespoke to the client’s needs the best way to approach the project was from the ground up. This allowed us to really concentrate on exactly where we should lay out the elements pages to ensure a clean user experience. </p>
       </div>
   </div>
 </section>
+-->
+
+
 <section class="content-section">
 <div id="carousel-example-generic" class="carousel slide padding" data-ride="carousel">
   <!-- Indicators -->

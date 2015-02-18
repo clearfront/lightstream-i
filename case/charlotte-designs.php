@@ -9,7 +9,7 @@ $background = "#efefef";
 <?php include '../inc/nav.php'; ?>
 <?php include '../inc/nav-padding.php';?>
 <section class="content-section" style="background-image:url(../img/studies/charlotte/background.png); background-repeat:repeat-x;">
-  <div class="container">
+  <div class="">
     <div class="row">
       <div class="col-lg-12 center">
        <div class="heroMainImage" > <img src="../img/studies/charlotte/charlotte.jpg" class="img-responsive"  alt=""/> </div>

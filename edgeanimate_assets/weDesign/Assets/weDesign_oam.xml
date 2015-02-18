@@ -6,7 +6,7 @@
 
   <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
 
-  <icon src="transparent.png" width="1101" height="673" />
+  <icon src="transparent.png" width="1200" height="600" />
 
   <require type="other" src="weDesign.html" />
 
@@ -14,10 +14,16 @@
   <require type="javascript" src="edge_includes/edge.5.0.1.min.js" />
 
   <require type="image" src="transparent.png" />
+  <require type="image" src="images/arrow.png" />
   <require type="image" src="images/featureFour.jpg" />
   <require type="image" src="images/featureOne.jpg" />
   <require type="image" src="images/featureThree.jpg" />
   <require type="image" src="images/featureTwo.jpg" />
+  <require type="image" src="images/iMac Monitor style Mock up copy.png" />
+  <require type="image" src="images/iMac Monitor style Mock up copy2.png" />
+  <require type="image" src="images/iPad Air 2  Silver copy.png" />
+  <require type="image" src="images/Layer 46 copy.png" />
+  <require type="image" src="images/Layer 46 copy2.png" />
   <require type="image" src="images/weDesignBackgroundPad.jpg" />
   <require type="image" src="images/weDevelop.jpg" />
 
@@ -30,11 +36,11 @@
   ]]></content>
    
   <properties name="Properties">
-    <property name="default-width" defaultValue="1101" hidden="true"/>
-    <property name="default-height" defaultValue="673" hidden="true"/>
+    <property name="default-width" defaultValue="1200" hidden="true"/>
+    <property name="default-height" defaultValue="600" hidden="true"/>
     <property name="resizable" defaultValue="true" hidden="true"/>				
-		<property name="centering" defaultValue="horizontal" hidden="true"/>				
-		<property name="scaling" defaultValue="none" hidden="true"/>
+		<property name="centering" defaultValue="both" hidden="true"/>				
+		<property name="scaling" defaultValue="both" hidden="true"/>
     <property name="html-page" defaultValue="weDesign.html" hidden="true"/>
   </properties>
 

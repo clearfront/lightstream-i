@@ -2,7 +2,6 @@
 <?php include ("inc/header.php");?>
 <?php include ("inc/nav.php");?>
 <?php include ("inc/nav-padding.php");?>
-
 <!--
 <section class="content-section" style="background-image:url(img/studies/fylde/fylde-background.png); background-repeat:repeat-x;">
   <div class="container">
@@ -15,6 +14,5 @@
   </div>
 </section>
 -->
-
 <?php include ("inc/services.php");?>
 <?php include ("inc/footer.php");?>

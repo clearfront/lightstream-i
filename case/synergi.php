@@ -9,7 +9,7 @@ $background = "#efefef";
 <?php include '../inc/nav.php'; ?>
 <?php include '../inc/nav-padding.php';?>
 <section class="content-section" >
-  <div class="container">
+  <div class="">
     <div class="row">
       <div class="col-lg-12 center">
         <div class="heroMainImage" > <img src="../img/studies/synergi/synergi.jpg" class="img-responsive"  alt=""/> </div>
@@ -22,11 +22,16 @@ $background = "#efefef";
     <div class="row">
       <div class="col-lg-12">
         <h2>UK-TEFL</h2>
-      <p class="largeText">Facebook landing page for UK-TEFL</p>
+      <p class="largeText">Synergi required a CMS website to allow them to upload the latest signage equipment  they had available. </p>
+      <p class="largeText">The bespoke CMS admin area allowed full control so they could add as much information or images as they liked.</p>
       </div>
     </div>
   </div>
 </section>
+
+
+<!--
+
 <section class="content-section section-dark-grey padding">
   <div class="container">
       <div class=" col-lg-4 padding">
@@ -43,6 +48,9 @@ $background = "#efefef";
       </div>
   </div>
 </section>
+
+-->
+
 <section class="content-section">
 <div id="carousel-example-generic" class="carousel slide padding" data-ride="carousel">
   <!-- Indicators -->
