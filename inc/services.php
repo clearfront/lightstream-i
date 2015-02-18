@@ -2,95 +2,65 @@
 <section class="content-section">
 <div class=" lightGallery services-gallery">
   <div class="row">
-    
-    
-    <section class="services-item"> 
-     <a href="<?php echo $serverRoot; ?>services/web-design">
-      <div class="col-lg-6 col-md-6 col-xs-12 services-item_light item-float-left padding fadeInUp animated">
-        <h2 class="h1">Creative</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacus odio, blandit sit amet libero sed, sodales vestibulum metus. Quisque varius, odio sit amet commodo scelerisque, leo nibh facilisis quam, eget faucibus. </p>
-        <p>Cras lacus odio, blandit sit amet libero sed, sodales vestibulum metus. Quisque varius.</p>
-        <ul>
-          <li><i class="fa fa-circle-o"></i> UI / UX Design</li>
-          <li><i class="fa fa-circle-o"></i> Design for Screen, Tablet & Mobile</li>
-          <li><i class="fa fa-circle-o"></i> Animation & Video</li>
-          <li><i class="fa fa-circle-o"></i> Photography & Art Direction</li>
-          <li><i class="fa fa-circle-o"></i> Brand Development</li>
-        </ul>
-      </div>
-      <div class="col-lg-6 col-md-6 col-xs-12 services-item_image creative item-float-right fadeInUp animated two">
-      <img src="img/services/creative@2x.jpg" class="responsive" alt=""/>
-      </div>
-     </a> 
-    </section>
-      
-      
-      
-    <section class="services-item"> 
-     <a href="<?php echo $serverRoot; ?>services/web-development">
-      <div class="col-lg-6 col-md-6 col-xs-12 item-float-right services-item_light padding fadeInUp animated three">
-        <h2 class="h1">Digital</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacus odio, blandit sit amet libero sed, sodales vestibulum metus. Quisque varius, odio sit amet commodo scelerisque, leo nibh facilisis quam, eget faucibus. </p>
-        <p>Cras lacus odio, blandit sit amet libero sed, sodales vestibulum metus. Quisque varius.</p>
-        <ul>
-          <li><i class="fa fa-circle-o"></i> Responsive Website Design & Build</li>
-          <li><i class="fa fa-circle-o"></i> UX Design</li>
-          <li><i class="fa fa-circle-o"></i> Mobile Site Development</li>
-          <li><i class="fa fa-circle-o"></i> Rich Internet Apps</li>
-          <li><i class="fa fa-circle-o"></i> Mobile & Tablet Apps</li>
-        </ul>
-      </div>
-      <div class="col-lg-6 col-md-6 col-xs-12 services-item_image digital item-float-left fadeInUp animated four">
-      <img src="img/services/digital@2x.jpg" class="responsive" alt=""/>
-      </div>
-     </a>
-    </section>
-    
-    
     <section class="services-item">
-     <a href="<?php echo $serverRoot; ?>services/mobile">
-      <div class="col-lg-6 col-md-6 col-xs-12 services-item_light item-float-left padding">
-        <h2 class="h1">Strategy</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacus odio, blandit sit amet libero sed, sodales vestibulum metus. Quisque varius, odio sit amet commodo scelerisque, leo nibh facilisis quam, eget faucibus. </p>
-        <p>Cras lacus odio, blandit sit amet libero sed, sodales vestibulum metus. Quisque varius.</p>
+      <div class="col-lg-6 col-md-6 col-xs-12 services-item_light item-float-left padding fadeInUp animated">
+        <h2 class="h1">Planning</h2>
+        <p><strong>Planning is arguably a very important if not the most important step in the design and development of a project. </strong></p>
+        <p>Considering all the possible directions you could take a project and identifying if the chosen idea has the most likely chance of success is very important. </p>
         <ul>
-          <li><i class="fa fa-circle-o"></i> Responsive Website Design & Build</li>
-          <li><i class="fa fa-circle-o"></i> UX Design</li>
-          <li><i class="fa fa-circle-o"></i> Mobile Site Development</li>
-          <li><i class="fa fa-circle-o"></i> Rich Internet Apps</li>
-          <li><i class="fa fa-circle-o"></i> Mobile & Tablet Apps</li>
+         
+          <li><a href="service/user-research">User Research</a></li>
+          <li><a href="service/design-workshops">Design Workshops</a></li>
+          <li><a href="service/information-architecture">Information Architecture</a></li>
+          <li><a href="service/wireframing">Wireframing</a></li>
+          
+          
+          
         </ul>
       </div>
-      <div class="col-lg-6 col-md-6 col-xs-12 services-item_image strategy item-float-right fadeInUp animated four">
-      <img src="img/services/strategy@2x.jpg" class="responsive" alt=""/>
-      </div>
-     </a>
-    </section>
-    
-    
-    
-    
-    <section class="services-item" >
-    <a href="<?php echo $serverRoot; ?>services/search-engine-optimisation">
-      <div class="col-lg-6 col-md-6 col-xs-12  item-float-right padding">
-        <h2 class="h1">Social</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacus odio, blandit sit amet libero sed, sodales vestibulum metus. Quisque varius, odio sit amet commodo scelerisque, leo nibh facilisis quam, eget faucibus. </p>
-        <p>Cras lacus odio, blandit sit amet libero sed, sodales vestibulum metus. Quisque varius.</p>
+      <div class="col-lg-6 col-md-6 col-xs-12 services-item_light item-float-left padding fadeInUp animated two">
+        <h2 class="h1">Design</h2>
+        <p><strong>With many years of experience designing for very high profile clients we are confident we know how to best design for success. </strong></p>
+        <p>Designing interfaces to either improve applications usability or attract potential customer signups on company’s website are some types of designs roles we do everyday. </p>
         <ul>
-          <li><i class="fa fa-circle-o"></i> Responsive Website Design & Build</li>
-          <li><i class="fa fa-circle-o"></i> UX Design</li>
-          <li><i class="fa fa-circle-o"></i> Mobile Site Development</li>
-          <li><i class="fa fa-circle-o"></i> Rich Internet Apps</li>
-          <li><i class="fa fa-circle-o"></i> Mobile & Tablet Apps</li>
+          
+          <li><a href="service/responsive-web-design">Responsive Web Design</a></li>
+          <li><a href="service/user-experience-design">User Experience Design</a></li>
+          <li><a href="service/visual-design">Visual Design</a></li>
+          <li><a href="service/interactive-prototyping">Interactive Prototyping</a></li>
+          
+          
         </ul>
-       </div>
-      <div class="col-lg-6 col-md-6 col-xs-12   services-item_image strategy item-float-left">
-      <img src="img/services/strategy@2x.jpg" class="responsive" alt=""/>
       </div>
-     </a>
     </section>
-  
-  
+    <section class="services-item">
+      <div class="col-lg-6 col-md-6 col-xs-12 services-item_light item-float-left padding fadeInUp animated">
+        <h2 class="h1">Development</h2>
+        <p><strong>As well as a vast amount of usability design experience we also know exactly how to develop interfaces to best achieve ultimate performance and usability. </strong></p>
+        <p>Our in-house development team has worked on some of the most interesting and best performing high profile applications and websites. </p>
+        <ul>
+     
+          <li><a href="service/front-end-development">Front-end Development</a></li>
+          <li><a href="service/interactive-prototyping">Interactive Prototyping</a></li>
+          <li><a href="service/back-end-development">Back-end Development</a></li>
+          <li><a href="service/usability-testing">Usability Testing</a></li>
+        
+          
+        </ul>
+      </div>
+      <div class="col-lg-6 col-md-6 col-xs-12 services-item_light item-float-left padding fadeInUp animated two">
+        <h2 class="h1">Analyze and Improve</h2>
+        <p><strong>Delivering a high performance sophisticated application is only half of the story. </strong></p>
+        <p>Constant analysis and improvement will give your company the edge over the competition. </p>
+        <ul>
+          <!--
+          <li><a href="service/performance-analitics">Performance Analitics</a></li>
+          -->
+          
+         <!-- <li>Performance Analitics</li> -->
+        </ul>
+      </div>
+    </section>
   </div>
 </div>
 </div>

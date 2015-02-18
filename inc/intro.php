@@ -1,3 +1,4 @@
+
 <!--Adobe Edge Runtime-->
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <script>
@@ -10,16 +11,16 @@ script.src = custHtmlRoot+"edge_includes/edge.5.0.1.min.js";
 		if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
 			done=true;
 			var opts ={
-    scaleToFit: "none",
-    centerStage: "horizontal",
-    minW: "0",
+    scaleToFit: "both",
+    centerStage: "both",
+    minW: "320px",
     maxW: "undefined",
-    width: "100%",
-    height: "100%"
+    width: "1200px",
+    height: "600px"
 };
 			opts.htmlRoot =custHtmlRoot;
 			AdobeEdge.loadComposition('weDesign', 'EDGE-3761144', opts,
-			{"dom":{}}, {"dom":{}});		
+			{"dom":{}}, {"style":{"${symbolSelector}":{"isStage":"true","rect":["undefined","undefined","1000px","600px"],"fill":["rgba(255,255,255,1)"]}},"dom":{}});		
 			script.onload = script.onreadystatechange = null;
 			head.removeChild(script);
 		}
@@ -27,11 +28,12 @@ script.src = custHtmlRoot+"edge_includes/edge.5.0.1.min.js";
 	head.appendChild(script);
 	</script>
 <style>
-   .edgeLoad-EDGE-3761144 { visibility:hidden; }
-</style>
+        .edgeLoad-EDGE-3761144 { visibility:hidden; }
+    </style>
 <!--Adobe Edge Runtime End-->
+
 <section class="intro">
-  <div class="intro-body">
+<div class="intro-body">
     <div class="container">
       <div class="row">
        <div id="Stage" class="EDGE-3761144"></div>

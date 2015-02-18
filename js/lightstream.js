@@ -65,6 +65,8 @@ $('.work-item a img').mouseout(function() {
 	//$(".content").hide();
 });
 
+$.validate(); 
+
 
 
 /* 

@@ -10,7 +10,7 @@
         <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
         <li class="page-scroll"> <a href="<?php echo $serverRoot; ?>">Home</a> </li>
         <li class="page-scroll"> <a href="<?php echo $serverRoot; ?>about">About</a> </li>
-        <li class="page-scroll"> <a href="<?php echo $serverRoot; ?>service">Services</a> </li>
+        <li class="page-scroll"> <a href="<?php echo $serverRoot; ?>services">Services</a> </li>
         <li class="page-scroll"> <a href="<?php echo $serverRoot; ?>work">Work</a> </li>
         <li class="page-scroll"> <a href="<?php echo $serverRoot; ?>contact">Contact</a> </li>
       </ul>

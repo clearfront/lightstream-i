@@ -9,7 +9,7 @@ $background = "#efefef";
 <?php include '../inc/nav.php'; ?>
 <?php include '../inc/nav-padding.php';?>
 <section class="content-section" >
-  <div class="container">
+  <div class="">
     <div class="row">
       <div class="col-lg-12 center">
         <div class="heroMainImage" > <img src="../img/studies/start/start.jpg" class="img-responsive"  alt=""/> </div>
@@ -24,7 +24,7 @@ $background = "#efefef";
         <h2>Start Apartments</h2>
       <p class="largeText">Start apartments wanted to create a website that informed regulars of new and exciting developments and give them a chance to express their gratitude publicly on the site.</p>
       <p class="largeText"> The site was also intended to inform new potential customers of all the facilities they offer.</p>
-      <p class="largeText"> Visit <a href="http://www.startapart.com/repair" target="_blank">www.startapart.com</a> for more. </p>
+      <p class="largeText"> Visit <a href="http://www.startapart.com" target="_blank">www.startapart.com</a> for more. </p>
       </div>
     </div>
   </div>

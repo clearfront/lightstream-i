@@ -9,7 +9,7 @@ $background = "#efefef";
 <?php include '../inc/nav.php'; ?>
 <?php include '../inc/nav-padding.php';?>
 <section class="content-section" >
-  <div class="container">
+  <div class="">
     <div class="row">
       <div class="col-lg-12 center">
         <div class="heroMainImage" > <img src="../img/studies/bert/bert.jpg" class="img-responsive"  alt=""/> </div>
@@ -22,26 +22,16 @@ $background = "#efefef";
     <div class="row">
       <div class="col-lg-12">
         <h2>Bert & Bert Barbers</h2>
-      <p class="largeText"> Fylde telecom asked us to create a mobile phone repair communication application and website. </p>
-      <p class="largeText"> The application is intended to replace a number of systems that had previously been to used together to make the process easy and less time consuming for fylde staff. </p>
-      <p class="largeText"> The website acted as sign up page for customers creat an account and enter their phones details. 
-        Visit <a href="http://www.fyldetelecom.co.uk/repair" target="_blank">www.fyldetelecom.co.uk</a> for more. </p>
+        <p class="largeText"> Bert & Bert wanted a clean and simple website to promote their barbers and sell hair products online.</p>
+        <p class="largeText"> Locational SEO was applied to the site so anybody searching for a “barbers in altrincham” will find Bert & Bert either first or second on the first page of google.</p>
+        <p class="largeText"> Please visit the site at <a href="http://www.bertandbert.co.uk">www.bertandbert.co.uk</a> Visit <a href="http://www.fyldetelecom.co.uk/repair" target="_blank">www.fyldetelecom.co.uk</a> for more. </p>
       </div>
     </div>
   </div>
 </section>
 
-<section class="content-section">
-  <div class="container">
-    <div class="row">
-      <div class=" col-lg-12" > <img src="../img/studies/bert/spacegray.jpg" style="width: 70%;"  alt=""/></div>
-    </div>
-  </div>
-</section>
 
-
-
-
+<!--
 <section class="content-section section-dark-grey padding">
   <div class="container">
 
@@ -64,30 +54,24 @@ $background = "#efefef";
   </div>
 </section>
 <section class="content-section">
+-->
 
-
-
-
-<div id="carousel-example-generic" class="carousel slide padding" data-ride="carousel">
-  <!-- Indicators -->
+<div id="carousel-example-generic" class="carousel slide padding" data-ride="carousel"> 
+  <!-- Indicators --> 
   <!--
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
     <li data-target="#carousel-example-generic" data-slide-to="1"></li>
     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
   </ol>
-  -->
-
+  --> 
+  
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="../img/studies/bert/macbook.jpg" class="img-responsive"  alt=""/>
-    </div>
-    
-
+    <div class="item active"> <img src="../img/studies/bert/macbook.jpg" class="img-responsive"  alt=""/> </div>
   </div>
-
-  <!-- Controls -->
+  
+  <!-- Controls --> 
   <!--
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -97,10 +81,16 @@ $background = "#efefef";
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-  -->
+  --> 
 </div>
-
-
-
 </section>
+
+<section class="content-section">
+  <div class="container">
+    <div class="row">
+      <div class=" col-lg-12" > <img src="../img/studies/bert/spacegray.jpg" style="width: 70%;"  alt=""/></div>
+    </div>
+  </div>
+</section>
+
 <?php include '../inc/footer.php'; ?>

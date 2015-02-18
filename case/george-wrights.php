@@ -9,10 +9,10 @@ $background = "#efefef";
 <?php include '../inc/nav.php'; ?>
 <?php include '../inc/nav-padding.php';?>
 <section class="content-section" style="background-image:url(../img/studies/george/background.png); background-repeat:repeat-x; background-size:contain;">
-  <div class="container">
+  <div class="">
     <div class="row">
       <div class="col-lg-12 center">
-        <div class="heroMainImage " > <img src="../img/studies/george/george-wrights.png"  alt=""/> </div>
+        <div class="heroMainImage " > <img src="../img/studies/george/george-wrights.png" class="img-responsive"  alt=""/> </div>
       </div>
     </div>
   </div>
@@ -50,18 +50,17 @@ $background = "#efefef";
 </section>
 <section class="content-section section-dark-grey padding">
   <div class="container">
-    <div class=" col-lg-4">
-      <div class="center"><img src="../img/studies/png/responsive.png"  alt=""/></div>
+    <div class=" col-lg-4 padding">
+      
       <h3>HTML5</h3>
       <p class="largeText">The site makes use of the latest internet technologies and techniques. This allows for greater flexibility and richer array of features at our developers disposal.</p>
     </div>
-    <div class=" col-lg-4">
-      <div class="center"><img src="../img/studies/png/html5.png"  alt=""/></div>
+    <div class=" col-lg-4 padding">
+
       <h3>PHP & MySQL</h3>
       <p class="largeText">As the requirement for the application was quite unique and bespoke to the client’s needs the best way to approach the project was from the ground up. This allowed us to really concentrate on exactly where we should lay out the elements pages to ensure a clean user experience. </p>
     </div>
-    <div class="col-lg-4 odd whiteBackground">
-      <div class="center"><img src="../img/studies/png/php.png"  alt=""/></div>
+    <div class="col-lg-4 padding odd whiteBackground">
       <h2>W3C </h2>
       <p class="largeText">Our sites are coded to be W3C compliant ensuring quality coding practices. The Markup Validation Service is a validator by the World Wide Web Consortium (W3C) that allows Internet users to check HTML and XHTML documents for well-formed markup.</p>
     </div>

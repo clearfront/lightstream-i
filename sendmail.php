@@ -1,13 +1,12 @@
 <?php
-$EmailFrom = "hello@davidshepherd.me";
-$EmailTo = "hello@davidshepherd.me";
-$Subject = "DShepherd Contact";
+$EmailFrom = "david.shepherd@lightstream-i.com";
+$EmailTo = "davidshepherd@me.com";
+$Subject = "Lightstream Contact";
 $Name = Trim($_POST[Name]); 
 $Email = Trim($_POST[Email]); 
 $Budget = Trim($_POST[Budget]); 
 $Phone = Trim($_POST[Phone]); 
 $Details = Trim($_POST[Details]); 
-
 
 
 // prepare email body text
@@ -17,6 +16,9 @@ $Body .= "$Name";
 $Body .= "\n";
 $Body .= "Email: ";
 $Body .= "$Email";
+$Body .= "\n";
+$Body .= "Budget: ";
+$Body .= "$Budget";
 $Body .= "\n";
 $Body .= "Phone: ";
 $Body .= "$Phone";
@@ -37,10 +39,11 @@ $Body .= "\n";
 // redirect to success page 
 if ($success){
   //print "<meta http-equiv=\"refresh\" content=\"0;URL=thankyou\">";
-  header('Location: thankyou.html'); 
+  header('Location: thankyou'); 
 }
 else{
   //print "<meta http-equiv=\"refresh\" content=\"0;URL=error\">";
   header('Location: error'); 
 }
+
 ?>

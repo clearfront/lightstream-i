@@ -2,9 +2,8 @@
   <div class="container">
     <div class="row center padding">
       <div class="col-lg-12">
-        <h2>Some brands and organisations we have worked with...</h2>
-        <div class="brand-icons"><img src="img/logos/bbc.png" width="240" height="150" alt=""/><img src="img/logos/nhs.png" width="240" height="150" alt=""/></div>
-      </div>
+        <h2>Since we formed in 2008 we have helped at lot of companies unlock the true potential of their applications and websites</h2>
+ 
     </div>
   </div>
   </div>

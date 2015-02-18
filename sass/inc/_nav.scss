@@ -7,7 +7,7 @@
 	padding-right: 10px; 
 		
 		@media (min-width: $screen-sm-min) {
-			padding: 20px 0;
+			padding: 20px 12px;
 			border-bottom: none;
 			letter-spacing: 1px;
 			background: transparent;
@@ -21,11 +21,11 @@
 	font-weight: 700;
 	padding: 12px 10px;
 		img {
-			width: 200px;
+			width: 170px;
 		}
 	@media (max-width: $screen-sm) {
 		img {
-			width: 180px;
+			width: 150px;
 		}
 	}
 }
