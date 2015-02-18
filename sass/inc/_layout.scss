@@ -1,4 +1,4 @@
-.container {
+f.container {
 	padding-left: 0;
 	padding-right: 0;
 }
@@ -14,12 +14,12 @@
  }
 
 .padding {
-		padding: 1em;
-	@media (min-width: $screen-xs-min) {
 		padding: 2em;
+	@media (min-width: $screen-xs-min) {
+		padding: 3em;
 	}
 	@media (min-width: $screen-md-min) {
-		padding: 4em;
+		padding: 3em;
 	}
 }
 

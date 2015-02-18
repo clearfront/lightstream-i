@@ -3347,13 +3347,13 @@ f.container {
   margin-left: 0px; }
 
 .padding {
-  padding: 1em; }
+  padding: 2em; }
   @media (min-width: 480px) {
     .padding {
-      padding: 2em; } }
+      padding: 3em; } }
   @media (min-width: 992px) {
     .padding {
-      padding: 4em; } }
+      padding: 3em; } }
 
 .margin {
   margin: 2.47em; }
@@ -3652,6 +3652,15 @@ input[type=text], textarea {
   border: none;
   color: #222222; }
 
+select {
+  width: 100%;
+  padding: 1em;
+  border-radius: 4px;
+  font-size: 1.4em;
+  margin: 0 0 10px 0;
+  border: none;
+  color: #222222; }
+
 input[type=submit] {
   width: 50%;
   padding: 1em;
@@ -3672,7 +3681,7 @@ i.close-contact {
 
 /* Full Page Image Intro Section */
 .intro {
-  display: table;
+  display: none;
   width: 100%;
   height: auto;
   padding: 0;
@@ -3741,7 +3750,8 @@ i.close-contact {
 @media (min-width: 768px) {
   .intro {
     height: 100%;
-    padding: 0; }
+    padding: 0;
+    display: table; }
 
   .brand-heading {
     font-size: 100px; }
