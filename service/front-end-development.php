@@ -14,10 +14,10 @@ $background = "#efefef";
     <div class="row">
       <div class="col-md-12">
         <h2>Front-end Development</h2>
-      <p class="largeText"><strong>Front-end Development is the process of building websites and applications using HTML, CSS, JavaScript and related technologies.
+      <p class="largeText"><strong>Front-end Development is creating the visual area or UI of a website that the user will see using HTML, CSS and Javascript and related technogloies.
 </strong>
 </p>
-      <p class="largeText">Clearleft’s front-end development process (sometimes called client-side development) is system-based, rather than the outmoded template-based approaches of the past. The results are pattern portfolios of components and layouts ideally suited for integrating into back-end software and content management systems (CMSs).
+      <p class="largeText">Our front end development process is normally informed from the user experience design and prototyping that we had done for the project previously. Our approach is very bespoke based on research and design previously done and never template.
 </p>
       </div>
     </div>

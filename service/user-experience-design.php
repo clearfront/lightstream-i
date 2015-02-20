@@ -15,10 +15,11 @@ $background = "#efefef";
       <div class="col-md-12">
         <h2>User Experience Design
 </h2>
-      <p class="largeText"><strong>User Experience Design (UXD) is a broad term we use to encompass designing how a person uses a website or application.
+      <p class="largeText"><strong>User Experience Design is the term we use to describe how we go about designing a website or application for a user.
 </strong>
 </p>
-      <p class="largeText">User Experience Design includes defining a person’s journeys through the site; how he or she uses the site’s functions and how the pages are structured to help a person achieve their goals. Good UXD is all about user-centred design, that is to say putting people first.
+      <p class="largeText">User Experience Design describes how a user would navigate through an application, the functionality they would encounter and how this combines to give the user the best possible experience when using your application. 
+
 
 </p>
       </div>

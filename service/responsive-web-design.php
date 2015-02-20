@@ -14,10 +14,11 @@ $background = "#efefef";
     <div class="row">
       <div class="col-md-12">
         <h2>Responsive Design</h2>
-      <p class="largeText"><strong>Responsive Web Design is about designing and developing a website to adapt to a multitude viewing environments.
+      <p class="largeText"><strong>Responsive Web Design id designing to cater for all screen sizes and allowing the page layout and often functionality to adapt to the available screen space.
 </strong>
 </p>
-      <p class="largeText">Typically a responsively designed website will look different when viewed on a mobile phone, tablet, or a widescreen monitor (and all sizes in between). The layout and content such as images will be automatically optimised according to the device on which it is being viewed. Responsive design requires close collaboration between visual designer and front-end developer.
+      <p class="largeText">Responsive design normally adapts to each device type and screen size so it will look different on each device type you use. The layout, images and features automatically adjust to best use the available screen and device features. 
+
 
 </p>
       </div>

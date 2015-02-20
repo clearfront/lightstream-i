@@ -14,11 +14,12 @@ $background = "#efefef";
     <div class="row">
       <div class="col-md-12">
         <h2>Information Architecture</h2>
-      <p class="largeText"><strong>Information Architecture refers to the organisation and labelling of content in a website.
-.
+      <p class="largeText"><strong>Information Architecture is arranging the websites content to inform usability. 
+
 </strong>
 </p>
-      <p class="largeText">Websites with a good information architecture are logically and consistently structured, with web pages clearly signposted enabling people to easily find the content they need.
+      <p class="largeText">Websites that have good information architecture tend to be well structured and easy for the user to navigate in a logical fashion. 
+
 </p>
       </div>
     </div>

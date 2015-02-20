@@ -14,9 +14,10 @@ $background = "#efefef";
     <div class="row">
       <div class="col-md-12">
         <h2>Interactive Prototyping</h2>
-      <p class="largeText"><strong>Interactive prototypes are working models of websites or applications, built for testing before further design and development work is undertaken.</strong>
+      <p class="largeText"><strong>Interactive prototypes are working mock-ups which allow the user to test how an application will work once fully developed.
+</strong>
 </p>
-      <p class="largeText">Our interactive prototypes are built using HTML & CSS and run in a web browser to give the best sense of how the web site will feel. We use interactive prototypes in usability testing to help us validate and refine design decisions at an early stage in the process. By annotating our prototypes, we create interactive wireframes which explain and document page structures and behaviours in situ, enabling our development partners to use the prototype as a specification for the back-end build. Seeing and feeling a living design is a far more efficient and effective method than writing long abstract functional specifications.
+      <p class="largeText">We create working prototype using a number of different methods. The method used would depend on the complexity of the application and what we would like to demonstrate with the prototype. Often they are used to identify is a functional design would work as well as intended or if more work would be required to make that feature work as expected. 
 </p>
       </div>
     </div>

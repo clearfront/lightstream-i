@@ -15,10 +15,10 @@ $background = "#efefef";
       <div class="col-md-12">
         <h2>Wireframing
 </h2>
-      <p class="largeText"><strong>Wireframes are the blueprints of web design and application design.
-.</strong>
+      <p class="largeText"><strong>Wireframes are simple blueprint like designs which are used early on in the design process to quickly commucate ideas and layouts for applications.</strong>
 </p>
-      <p class="largeText">Wireframes are low-detail representations of an interface. They tend to omit colour, imagery and other visual design specifics, providing a simple inventory of the contents and layout of a page instead. For the sake of speed, we almost always sketch wireframes with pen and paper. Sometimes a sketch is enough to convey the detail required; sometimes we add fidelity by creating an interactive prototype from the sketched wireframes.
+      <p class="largeText">Wireframes tend to be quick low detail representations to quickly commutate to the client ideas and general layout ideas. Wireframes can either come in form of quick sketches or maybe greyscale blueprint like designs done in photoshop or axure for example.  
+
 
 </p>
       </div>

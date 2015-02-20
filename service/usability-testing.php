@@ -15,9 +15,10 @@ $background = "#efefef";
       <div class="col-md-12">
         <h2>Usability Testing
 </h2>
-      <p class="largeText"><strong>Usability Testing means watching people use websites to test theories and inform designs.</strong>
+      <p class="largeText"><strong>Usability Testing normally involves watching your users use the prototype of application you have created to test if design ideas work and gauge their response.
+</strong>
 </p>
-      <p class="largeText">Users are funny creatures and sometimes they do the strangest things. So, if you have an unsolved issue, testing your site out on real people will often provide the prognosis.
+      <p class="largeText">A lot of usability insights can be gained employing usability testing. What may seems like a good design theory in the studio may not come across as an easy to use feature when a real user is testing the feature.
 </p>
       </div>
     </div>

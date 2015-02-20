@@ -15,10 +15,11 @@ $background = "#efefef";
       <div class="col-md-12">
         <h2>Visual Design
 </h2>
-      <p class="largeText"><strong>Visual design refers the look and feel of a website or application.
+      <p class="largeText"><strong>Visual design is the look and feel of your application or website.
 </strong>
 </p>
-      <p class="largeText">Visual design provides aesthetic appeal, emotional response and that all important first impression. It makes the underlying user experience design properly work by juggling many different elements such as colour, hierarchy, texture, shape, typography and composition. Visual design is more than mere decoration; it makes the design speak with a visual language of its own. Our visual designs are always provided in the form of a componentised style guide and pattern portfolio – this means we provide a design system which can work into the future, rather than a series of single page designs.
+      <p class="largeText">Visual design is the broad term used to describe how a website looks. The visual design is a carefully considered combination of colour, composition, hierarchy, texture, shape and typography. Visual design is a lot more than mere decoration it informs the user experience and commutates the correct purpose of the website and how the user should go about using it. 
+
 </p>
       </div>
     </div>
